@@ -1,0 +1,7 @@
+numpy
+scipy
+pyserial
+keyboard
+PyQt5
+pyqtgraph
+ur-rtde
